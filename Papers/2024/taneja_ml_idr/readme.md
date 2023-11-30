@@ -17,7 +17,7 @@ This repository contains relevant code/data for the manuscript "Machine learning
 
 See the following links for the raw trajectory data:
 
-* [18 residue] (https://zenodo.org/records/10035449)
-* [36 residue] (https://zenodo.org/records/10035457)
-* [54 residue] (https://zenodo.org/records/10035459)
+* [18 residue](https://zenodo.org/records/10035449)
+* [36 residue](https://zenodo.org/records/10035457)
+* [54 residue](https://zenodo.org/records/10035459)
 
